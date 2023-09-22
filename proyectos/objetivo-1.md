@@ -30,7 +30,7 @@
 | [Enlace de pluque01](https://github.com/pluque01/Smart-Location/pull/5) | v0.0.1 | |
 | <!-- Enlace de josemponce --> | | |
 | <!-- Enlace de smallPingu --> | | |
-| <!-- Enlace de chelunike --> | | |
+| [Enlace de chelunike](https://github.com/chelunike/didactic-chainsaw/pull/3) | v.0.0.1 | |
 | <!-- Enlace de M M M --> | | |
 | <!-- Enlace de moshidev --> | | |
 | <!-- Enlace de R L O E --> | | |
